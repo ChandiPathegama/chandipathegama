@@ -3,11 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=200&section=header&animation=fadeIn" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=45&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=CHANDIMAL+PATHEGAMA" alt="Name" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=45&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=CHANDIMAL+PATHEGAMA" alt="Name" />
 </h1>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=22&duration=3000&pause=1000&color=9D9D9D&center=true&vCenter=true&width=500&lines=%E2%9C%A8+A+passionate+dev+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=3000&pause=1000&color=666666&center=true&vCenter=true&width=500&lines=%E2%9C%A8+A+passionate+dev+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Subtitle" />
 </h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -33,13 +33,13 @@
 
 <p align="center">
 <a href="https://fb.com/chandimalpathegama" target="blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-FFFFFF?style=for-the-badge&logo=facebook&logoColor=000000&borderColor=000000" alt="Facebook"/>
 </a>
 <a href="https://instagram.com/chandiizp" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"/>
 </a>
 <a href="https://www.youtube.com/c/chandimalpathegama" target="blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=000000" alt="YouTube"/>
 </a>
 </p>
 
